@@ -1,7 +1,7 @@
 # Colony Management System
 
 ## Overview
-**THE1** is a Colony Management System designed and implemented by Filiz İpek Oktay (Student ID: 30780). This C++ program allows users to manage resources, buildings, and the layout of a colony through a command-line interface.
+This program is a Colony Management System designed and implemented by Filiz İpek Oktay. This C++ program allows users to manage resources, buildings, and the layout of a colony through a command-line interface.
 
 ## Features
 - **Resource Management:** Load available resources from a specified file.
@@ -51,4 +51,4 @@
 - Ensure correct file names and formats to avoid errors during file loading.
 - Follow on-screen instructions for each menu option to perform desired actions.
 
-**Thank you for using THE1 Colony Management System!**
+**Thank you for using Colony Management System!**
